@@ -37,7 +37,7 @@ print("👋 Welcome to Rock, Paper, Scissors!")
 ## ✅ Step 3: Define Valid Choices
 
 ```python
-options = ["rock", "paper", "scissors"]
+options = 
 ```
 
 ---
@@ -45,7 +45,7 @@ options = ["rock", "paper", "scissors"]
 ## ✅ Step 4: Start a Game Loop
 
 ```python
-while True:
+while 
 ```
 
 ---
@@ -81,7 +81,7 @@ while True:
 ## ✅ Step 8: Decide the Winner
 
 ```python
-    if player_choice == computer_choice:
+    if p
         print("🤝 It's a tie!")
     elif (
         (player_choice == "rock" and computer_choice == "scissors") or
@@ -119,10 +119,5 @@ Try modifying the game:
 
 Happy coding! 🐍
 
-```
 
----
-
-Let me know which one to format next: `guess_the_number`, `hangman`, `magic_8_ball`?
-```
 
